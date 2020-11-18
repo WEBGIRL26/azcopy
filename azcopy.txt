@@ -1,0 +1,3 @@
+azcopy 
+
+.\azcopy /source:"https://name..blob.core.windows.net/sql-container/VMNAME/databasename/folder/filename and sas token" /pattern:"VMNAME/DB/FOLDER/OBJECTNAME.EXT" /Dest:F:\Backup
